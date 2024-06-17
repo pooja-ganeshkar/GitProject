@@ -1,2 +1,2 @@
 firstLine
-SecondLine
+SecondLine.
